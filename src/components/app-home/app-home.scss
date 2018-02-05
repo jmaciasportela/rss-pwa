@@ -5,7 +5,7 @@ app-home {
   }
 
   .toolbar-background {
-    background-color: #e74e12;
+  	background-color: var(--primary-color, blue);
   }
 
   .toolbar-title {
@@ -13,4 +13,5 @@ app-home {
   }
 
 }
+
 

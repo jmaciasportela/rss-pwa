@@ -4,3 +4,7 @@ body {
   padding: 0px;
   font-family: 'Roboto', sans-serif;
 }
+
+html {
+	--primary-color: #e74e12;
+}  
