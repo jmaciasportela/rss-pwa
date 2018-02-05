@@ -1,8 +1,8 @@
 {
-  "name": "@stencil/starter",
+  "name": "rss_pwa",
   "private": true,
   "version": "0.0.1",
-  "description": "Stencil App Starter",
+  "description": "RSS PWA",
   "files": [
     "dist/"
   ],
@@ -28,14 +28,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-team/stencil-app-starter.git"
+    "url": "git+https://github.com/jmaciasportela/rss-pwa.git"
   },
-  "author": "Ionic Team",
+  "author": "Jesus Macias Portela",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ionic-team/stencil"
+    "url": "https://github.com/jmaciasportela/rss-pwa.git"
   },
-  "homepage": "https://github.com/ionic-team/stencil",
+  "homepage": "https://github.com/jmaciasportela/rss-pwa.git",
   "jest": {
     "transform": {
       "^.+\\.(ts|tsx)$": "<rootDir>/node_modules/@stencil/core/testing/jest.preprocessor.js"

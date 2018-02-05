@@ -1,5 +1,16 @@
 app-home {
+
   ion-scroll {
     padding: 15px;
   }
+
+  .toolbar-background {
+    background-color: #e74e12;
+  }
+
+  .toolbar-title {
+    color: white !important;
+  }
+
 }
+
